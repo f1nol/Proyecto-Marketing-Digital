@@ -13,6 +13,7 @@ body {
     font-style: normal;
     line-height: 1.6;
     color: #333;
+    color: #345;
 }
 
 .contenedor {
@@ -514,3 +515,4 @@ marquee {
         padding-bottom: 0;
     }
 } 
+
